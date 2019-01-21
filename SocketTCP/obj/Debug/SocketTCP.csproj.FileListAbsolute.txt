@@ -1,0 +1,9 @@
+c:\users\rex\documents\visual studio 2015\Projects\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe.config
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\SocketTCP\SocketTCP\bin\Debug\SocketTCP.exe
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\SocketTCP\SocketTCP\bin\Debug\SocketTCP.pdb
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csprojResolveAssemblyReference.cache
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\SocketTCP\SocketTCP\obj\Debug\SocketTCP.Form1.resources
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\SocketTCP\SocketTCP\obj\Debug\SocketTCP.Properties.Resources.resources
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\SocketTCP\SocketTCP\obj\Debug\SocketTCP.csproj.GenerateResource.Cache
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\SocketTCP\SocketTCP\obj\Debug\SocketTCP.exe
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\SocketTCP\SocketTCP\obj\Debug\SocketTCP.pdb
